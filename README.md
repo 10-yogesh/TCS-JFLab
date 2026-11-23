@@ -1,7 +1,7 @@
 # TCS JFLAP ASSIGNMENT
 
-**Student Name:** TANVI JAGADE  
-**Roll No / Class:** D12B-19  
+**Student Name:** Yogesh Talreja
+**Roll No / Class:** D12B-62  
 **Subject:** Theory of Computer Science (TCS)  
 **Tool:** JFLAP (Java Formal Languages and Automata Package)  
 
